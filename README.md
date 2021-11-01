@@ -7,3 +7,4 @@
 6. https://github.com/Stringbuilder101/chalkboard/blob/main/README.md https://stringbuilder101.github.io/chalkboard/
 7. In this version I have some placeholder images, and they will be replaced later, the hat will be added to some pages including logo.
 For thise project the user when asked about priviliges should chose teacher, student, or admin.
+map.html is the page for map that is running on VS code, not on GitHub
