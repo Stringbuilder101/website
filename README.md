@@ -1,6 +1,6 @@
 # website
 1. https://stringbuilder101.github.io/chalkboardsite5/
-2. Polina Zhukovskaya Clements, Cintheia Chowdhury
+2. Polina Zhukovskaya Clements, Sintheia Jerin Chowdhury
 3. The app has a map feature to see the geographical locations of services, it has pages for teacher, student and admin, allows them to choose courses, to see the roaster(for the teacher and admin), add another teacher, remove course, leave course, and basic assignement forms. Final version will have more design, and more images. 
 4. Front End HTML/CSS, bootstrap Back End, Simple Maps, heroku.app, mongo db. 
 5. mongo db
