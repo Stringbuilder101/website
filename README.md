@@ -31,8 +31,8 @@
    On the instructor's page there are courses previously taught that can be reused.
    Instructor's page https://codepen.io/polinazclements/full/vYJPrYV and once instructor creates and assignemnt the page is here: 
    The instructor receives the assignment in the following view https://codepen.io/polinazclements/full/oNeVyzM and can grade it. It has feedback section, checkbox allows to        resubmit. On the instructor's page on the right the instructor can see the request, and approve it by click. For questions in assignemnts a student has the black spot for        the answer. https://codepen.io/polinazclements/full/WNEYJoQ 
-   A more visual representation and functionality of the web-site and additionally added to the following repository: https://codepen.io/polinazclements/pens/public?      
-   cursor=ZD0wJm89MSZwPTEmdj01Njc0NDI0Ng==
+   A more visual representation and functionality of the web-site and additionally added to the following repository: 
+   https://codepen.io/polinazclements/pens/public?cursor=ZD0wJm89MSZwPTEmdj01Njc0NDI0Ng==
 4. HTML, CSS, JS
 5. .PHP
 6. Mongo DB 
